@@ -33,4 +33,4 @@ A simple Python-based password generator that allows you to create strong, rando
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/ShivamPandey0801/Password-Generator
